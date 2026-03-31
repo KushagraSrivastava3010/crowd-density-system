@@ -116,14 +116,15 @@ python app.py
 
  📸 Screenshots
 
-> (Add screenshots here after running the project)*
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/1d5c74be-7b7a-40a8-830c-8f1a20dd6f7a" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/b28736c3-6309-491e-98f2-748769b06912" />
 
-* Example: Detection output
-* Example: High crowd alert
 
----
 
-## 🚀 Applications
+
+
+
+ 🚀 Applications
 
 * Smart city surveillance systems
 * Crowd monitoring in events and festivals
@@ -131,15 +132,15 @@ python app.py
 * Public transport stations
 * Shopping malls and marketplaces
 
----
 
-## ⚠️ Limitations
+
+ ⚠️ Limitations
 
 * Accuracy may reduce in low lighting conditions
 * Occlusion (people overlapping) may affect detection
 * Works best with a clear camera view
 
----
+
 
 ## 🔮 Future Improvements
 
@@ -149,7 +150,7 @@ python app.py
 * Integrate with CCTV systems
 * Add heatmaps for crowd visualization
 
----
+
 
 ## 📚 Learning Outcomes
 
@@ -158,22 +159,22 @@ python app.py
 * Real-time video processing using OpenCV
 * Problem-solving using AI in real-world scenarios
 
----
+
 
 ## 👨‍💻 Author
 
-**Kushagra Srivastava**
+Kushagra Srivastava
 Third Year Student, VIT Bhopal
 
----
 
-## 📜 License
+
+ 📜 License
 
 This project is for academic purposes only.
 
----
 
-## ⭐ Acknowledgements
+
+ ⭐ Acknowledgements
 
 * OpenCV Library
 * Computer Vision Course Resources
